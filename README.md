@@ -1,8 +1,10 @@
-MovieLens 100K Dataset
+**MovieLens 100K Dataset Description:**
 
-Description: The data used in the following analysis is the MovieLens data of 100K movie ratings. The data was collected through the MovieLens website (movielens.umn.edu) during the seven-month period from September 19th, 1997 to April 22nd, 1998. This data set consists of 100,000 ratings (1-5) from 943 users on 1682 movies. The data has been filtered such that each user has rated at least 20 movies.
+The data used in the following analysis is the MovieLens data of 100K movie ratings. The data was collected through the MovieLens website (movielens.umn.edu) during the seven-month period from September 19th, 1997 to April 22nd, 1998. This data set consists of 100,000 ratings (1-5) from 943 users on 1682 movies. The data has been filtered such that each user has rated at least 20 movies.
 
-We will answer the following questions (based on average ratings) by analyzing the data in the different files:
+The soluitons.ipnyb is a Juoyter Notebook file that contains the code for the analysis.
+
+We will answer the following questions (based on average ratings) by analyzing the data in the different files. The output files for each question are given below.
 
 1) What are the Top 3 movies by Occupation of users? **Output File: Ans Top3ByOccupation**
 
