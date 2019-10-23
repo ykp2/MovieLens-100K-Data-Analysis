@@ -1,0 +1,1138 @@
+occupation,genre,movie title,rating
+administrator,Action,Congo (1995),5.0
+administrator,Action,"Magnificent Seven, The (1954)",4.583333333333333
+administrator,Action,"Princess Bride, The (1987)",4.565217391304348
+administrator,Adventure,"Big Blue, The (Grand bleu, Le) (1988)",5.0
+administrator,Adventure,Congo (1995),5.0
+administrator,Adventure,"Princess Bride, The (1987)",4.565217391304348
+administrator,Animation,"Close Shave, A (1995)",5.0
+administrator,Animation,"Grand Day Out, A (1992)",4.666666666666667
+administrator,Animation,"Wrong Trousers, The (1993)",4.6
+administrator,Children's,Bogus (1996),5.0
+administrator,Children's,FairyTale: A True Story (1997),5.0
+administrator,Children's,"NeverEnding Story III, The (1994)",5.0
+administrator,Comedy,A Chef in Love (1996),5.0
+administrator,Comedy,Braindead (1992),5.0
+administrator,Comedy,Brassed Off (1996),5.0
+administrator,Crime,Once Were Warriors (1994),5.0
+administrator,Crime,Amateur (1994),4.5
+administrator,Crime,Fargo (1996),4.444444444444445
+administrator,Documentary,Microcosmos: Le peuple de l'herbe (1996),5.0
+administrator,Documentary,Paradise Lost: The Child Murders at Robin Hood Hills (1996),5.0
+administrator,Documentary,Unzipped (1995),5.0
+administrator,Drama,Aparajito (1956),5.0
+administrator,Drama,"Blue Angel, The (Blaue Engel, Der) (1930)",5.0
+administrator,Drama,Bogus (1996),5.0
+administrator,Fantasy,Bogus (1996),5.0
+administrator,Fantasy,FairyTale: A True Story (1997),5.0
+administrator,Fantasy,"NeverEnding Story III, The (1994)",5.0
+administrator,Film-Noir,L.A. Confidential (1997),4.4
+administrator,Film-Noir,"Manchurian Candidate, The (1962)",4.266666666666667
+administrator,Film-Noir,Notorious (1946),4.166666666666667
+administrator,Horror,Audrey Rose (1977),5.0
+administrator,Horror,Braindead (1992),5.0
+administrator,Horror,Psycho (1960),4.2631578947368425
+administrator,Musical,"Gay Divorcee, The (1934)",5.0
+administrator,Musical,"Inspector General, The (1949)",5.0
+administrator,Musical,Selena (1997),5.0
+administrator,Mystery,Boxing Helena (1993),5.0
+administrator,Mystery,Congo (1995),5.0
+administrator,Mystery,Gaslight (1944),5.0
+administrator,Romance,"Big Blue, The (Grand bleu, Le) (1988)",5.0
+administrator,Romance,Boxing Helena (1993),5.0
+administrator,Romance,Brassed Off (1996),5.0
+administrator,Sci-Fi,Congo (1995),5.0
+administrator,Sci-Fi,"Visitors, The (Visiteurs, Les) (1993)",5.0
+administrator,Sci-Fi,"Day the Earth Stood Still, The (1951)",4.714285714285714
+administrator,Thriller,"Assignment, The (1997)",5.0
+administrator,Thriller,Boxing Helena (1993),5.0
+administrator,Thriller,"Close Shave, A (1995)",5.0
+administrator,War,Paradise Road (1997),5.0
+administrator,War,Stalingrad (1993),5.0
+administrator,War,Welcome To Sarajevo (1997),4.666666666666667
+administrator,Western,"Wild Bunch, The (1969)",4.666666666666667
+administrator,Western,"Magnificent Seven, The (1954)",4.583333333333333
+administrator,Western,High Noon (1952),4.545454545454546
+artist,Action,"Adventures of Robin Hood, The (1938)",5.0
+artist,Action,Alien 3 (1992),5.0
+artist,Action,Blues Brothers 2000 (1998),5.0
+artist,Adventure,"Adventures of Pinocchio, The (1996)",5.0
+artist,Adventure,"Adventures of Robin Hood, The (1938)",5.0
+artist,Adventure,Evil Dead II (1987),5.0
+artist,Animation,"Close Shave, A (1995)",5.0
+artist,Animation,Ghost in the Shell (Kokaku kidotai) (1995),5.0
+artist,Animation,"Wrong Trousers, The (1993)",5.0
+artist,Children's,"Adventures of Pinocchio, The (1996)",5.0
+artist,Children's,Matilda (1996),5.0
+artist,Children's,Star Kid (1997),5.0
+artist,Comedy,Bananas (1971),5.0
+artist,Comedy,Billy Madison (1995),5.0
+artist,Comedy,Blues Brothers 2000 (1998),5.0
+artist,Crime,Gridlock'd (1997),5.0
+artist,Crime,Touch of Evil (1958),5.0
+artist,Crime,U Turn (1997),5.0
+artist,Documentary,Anne Frank Remembered (1995),5.0
+artist,Documentary,"Fast, Cheap & Out of Control (1997)",5.0
+artist,Documentary,"Haunted World of Edward D. Wood Jr., The (1995)",5.0
+artist,Drama,Bent (1997),5.0
+artist,Drama,Bread and Chocolate (Pane e cioccolata) (1973),5.0
+artist,Drama,Burnt By the Sun (1994),5.0
+artist,Fantasy,Heavenly Creatures (1994),5.0
+artist,Fantasy,Star Kid (1997),5.0
+artist,Fantasy,E.T. the Extra-Terrestrial (1982),4.571428571428571
+artist,Film-Noir,Sunset Blvd. (1950),5.0
+artist,Film-Noir,Touch of Evil (1958),5.0
+artist,Film-Noir,Blade Runner (1982),4.8
+artist,Horror,Alien 3 (1992),5.0
+artist,Horror,Body Snatchers (1993),5.0
+artist,Horror,Evil Dead II (1987),5.0
+artist,Musical,Blues Brothers 2000 (1998),5.0
+artist,Musical,Top Hat (1935),5.0
+artist,Musical,My Fair Lady (1964),4.333333333333333
+artist,Mystery,Dial M for Murder (1954),5.0
+artist,Mystery,U Turn (1997),5.0
+artist,Mystery,"Thin Man, The (1934)",4.75
+artist,Romance,Cyrano de Bergerac (1990),5.0
+artist,Romance,Farewell My Concubine (1993),5.0
+artist,Romance,Ninotchka (1939),5.0
+artist,Sci-Fi,Alien 3 (1992),5.0
+artist,Sci-Fi,Body Snatchers (1993),5.0
+artist,Sci-Fi,Delicatessen (1991),5.0
+artist,Thriller,"39 Steps, The (1935)",5.0
+artist,Thriller,Alien 3 (1992),5.0
+artist,Thriller,Body Snatchers (1993),5.0
+artist,War,Bananas (1971),5.0
+artist,War,Bent (1997),5.0
+artist,War,"Deer Hunter, The (1978)",5.0
+artist,Western,High Noon (1952),4.666666666666667
+artist,Western,"Good, The Bad and The Ugly, The (1966)",4.5
+artist,Western,"Magnificent Seven, The (1954)",4.5
+doctor,Action,Alien (1979),5.0
+doctor,Action,Braveheart (1995),5.0
+doctor,Action,"Devil's Own, The (1997)",5.0
+doctor,Adventure,"Empire Strikes Back, The (1980)",5.0
+doctor,Adventure,"Great Escape, The (1963)",5.0
+doctor,Adventure,Kull the Conqueror (1997),5.0
+doctor,Animation,Cats Don't Dance (1997),5.0
+doctor,Animation,Beauty and the Beast (1991),4.0
+doctor,Animation,Cinderella (1950),4.0
+doctor,Children's,Cats Don't Dance (1997),5.0
+doctor,Children's,"Wizard of Oz, The (1939)",5.0
+doctor,Children's,Willy Wonka and the Chocolate Factory (1971),4.333333333333333
+doctor,Comedy,Annie Hall (1977),5.0
+doctor,Comedy,Bringing Up Baby (1938),5.0
+doctor,Comedy,Cinema Paradiso (1988),5.0
+doctor,Crime,"Devil's Advocate, The (1997)",5.0
+doctor,Crime,"Godfather: Part II, The (1974)",5.0
+doctor,Crime,Kiss the Girls (1997),5.0
+doctor,Documentary,Ayn Rand: A Sense of Life (1997),5.0
+doctor,Documentary,Hoop Dreams (1994),4.0
+doctor,Documentary,Looking for Richard (1996),4.0
+doctor,Drama,Anna Karenina (1997),5.0
+doctor,Drama,Braveheart (1995),5.0
+doctor,Drama,Burnt By the Sun (1994),5.0
+doctor,Fantasy,FairyTale: A True Story (1997),4.0
+doctor,Fantasy,Dragonheart (1996),3.0
+doctor,Fantasy,E.T. the Extra-Terrestrial (1982),3.0
+doctor,Film-Noir,Blade Runner (1982),5.0
+doctor,Film-Noir,"Grifters, The (1990)",4.0
+doctor,Film-Noir,L.A. Confidential (1997),4.0
+doctor,Horror,Alien (1979),5.0
+doctor,Horror,"Devil's Advocate, The (1997)",5.0
+doctor,Horror,I Know What You Did Last Summer (1997),5.0
+doctor,Musical,Cats Don't Dance (1997),5.0
+doctor,Musical,"Misérables, Les (1995)",5.0
+doctor,Musical,"Wizard of Oz, The (1939)",5.0
+doctor,Mystery,"Devil's Advocate, The (1997)",5.0
+doctor,Mystery,I Know What You Did Last Summer (1997),5.0
+doctor,Mystery,U Turn (1997),5.0
+doctor,Romance,Anna Karenina (1997),5.0
+doctor,Romance,Annie Hall (1977),5.0
+doctor,Romance,Casablanca (1942),5.0
+doctor,Sci-Fi,Alien (1979),5.0
+doctor,Sci-Fi,Blade Runner (1982),5.0
+doctor,Sci-Fi,Brazil (1985),5.0
+doctor,Thriller,Alien (1979),5.0
+doctor,Thriller,"Assignment, The (1997)",5.0
+doctor,Thriller,"Devil's Advocate, The (1997)",5.0
+doctor,War,Braveheart (1995),5.0
+doctor,War,Casablanca (1942),5.0
+doctor,War,"Devil's Own, The (1997)",5.0
+doctor,Western,"Magnificent Seven, The (1954)",5.0
+doctor,Western,Butch Cassidy and the Sundance Kid (1969),4.0
+doctor,Western,Dances with Wolves (1990),4.0
+educator,unknown,unknown,3.0
+educator,Action,Steel (1997),5.0
+educator,Action,"Perfect World, A (1993)",4.6
+educator,Action,Star Wars (1977),4.52
+educator,Adventure,Star Wars (1977),4.52
+educator,Adventure,Lawrence of Arabia (1962),4.461538461538462
+educator,Adventure,"Wizard of Oz, The (1939)",4.434782608695652
+educator,Animation,Wallace & Gromit: The Best of Aardman Animation (1996),4.8
+educator,Animation,Cats Don't Dance (1997),4.5
+educator,Animation,"Wrong Trousers, The (1993)",4.5
+educator,Children's,"Baby-Sitters Club, The (1995)",5.0
+educator,Children's,Cats Don't Dance (1997),4.5
+educator,Children's,"Wizard of Oz, The (1939)",4.434782608695652
+educator,Comedy,Cemetery Man (Dellamorte Dellamore) (1994),5.0
+educator,Comedy,Crooklyn (1994),5.0
+educator,Comedy,Faithful (1996),5.0
+educator,Crime,City of Industry (1997),5.0
+educator,Crime,Incognito (1997),5.0
+educator,Crime,Purple Noon (1960),5.0
+educator,Documentary,"Great Day in Harlem, A (1994)",5.0
+educator,Documentary,Marlene Dietrich: Shadow and Light (1996) ,5.0
+educator,Documentary,Maya Lin: A Strong Clear Vision (1994),5.0
+educator,Drama,Aparajito (1956),5.0
+educator,Drama,Boy's Life 2 (1997),5.0
+educator,Drama,Double Happiness (1994),5.0
+educator,Fantasy,E.T. the Extra-Terrestrial (1982),4.111111111111111
+educator,Fantasy,FairyTale: A True Story (1997),4.0
+educator,Fantasy,Warriors of Virtue (1997),4.0
+educator,Film-Noir,Crossfire (1947),4.5
+educator,Film-Noir,M (1931),4.5
+educator,Film-Noir,"Maltese Falcon, The (1941)",4.461538461538462
+educator,Horror,Cemetery Man (Dellamorte Dellamore) (1994),5.0
+educator,Horror,Young Frankenstein (1974),4.3
+educator,Horror,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",4.166666666666667
+educator,Musical,Madame Butterfly (1995),5.0
+educator,Musical,Cats Don't Dance (1997),4.5
+educator,Musical,Farinelli: il castrato (1994),4.5
+educator,Mystery,Stalker (1979),5.0
+educator,Mystery,Rear Window (1954),4.571428571428571
+educator,Mystery,Gaslight (1944),4.5
+educator,Romance,For the Moment (1994),5.0
+educator,Romance,Go Fish (1994),5.0
+educator,Romance,"Affair to Remember, An (1957)",4.833333333333333
+educator,Sci-Fi,Stalker (1979),5.0
+educator,Sci-Fi,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),4.571428571428571
+educator,Sci-Fi,Star Wars (1977),4.52
+educator,Thriller,City of Industry (1997),5.0
+educator,Thriller,Incognito (1997),5.0
+educator,Thriller,Purple Noon (1960),5.0
+educator,War,For the Moment (1994),5.0
+educator,War,Schindler's List (1993),4.6
+educator,War,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),4.571428571428571
+educator,Western,"Good, The Bad and The Ugly, The (1966)",4.384615384615385
+educator,Western,Butch Cassidy and the Sundance Kid (1969),4.206896551724138
+educator,Western,Dances with Wolves (1990),4.153846153846154
+engineer,unknown,unknown,3.0
+engineer,Action,Maximum Risk (1996),5.0
+engineer,Action,Raiders of the Lost Ark (1981),4.590909090909091
+engineer,Action,Star Wars (1977),4.48
+engineer,Adventure,Maximum Risk (1996),5.0
+engineer,Adventure,Tom and Huck (1995),5.0
+engineer,Adventure,Raiders of the Lost Ark (1981),4.590909090909091
+engineer,Animation,"Wrong Trousers, The (1993)",4.642857142857143
+engineer,Animation,Ghost in the Shell (Kokaku kidotai) (1995),4.5
+engineer,Animation,Wallace & Gromit: The Best of Aardman Animation (1996),4.5
+engineer,Children's,"Little Princess, A (1995)",5.0
+engineer,Children's,Tom and Huck (1995),5.0
+engineer,Children's,Black Beauty (1994),4.2
+engineer,Comedy,Charade (1963),5.0
+engineer,Comedy,Late Bloomers (1996),5.0
+engineer,Comedy,Top Hat (1935),5.0
+engineer,Crime,Hard Eight (1996),5.0
+engineer,Crime,Laura (1944),5.0
+engineer,Crime,"Usual Suspects, The (1995)",4.4
+engineer,Documentary,Grateful Dead (1995),5.0
+engineer,Documentary,Hoop Dreams (1994),4.153846153846154
+engineer,Documentary,Crumb (1994),4.0
+engineer,Drama,Harlem (1993),5.0
+engineer,Drama,"Little Princess, A (1995)",5.0
+engineer,Drama,"Quiet Room, The (1996)",5.0
+engineer,Fantasy,FairyTale: A True Story (1997),4.0
+engineer,Fantasy,Heavenly Creatures (1994),3.75
+engineer,Fantasy,E.T. the Extra-Terrestrial (1982),3.6285714285714286
+engineer,Film-Noir,Laura (1944),5.0
+engineer,Film-Noir,Chinatown (1974),4.461538461538462
+engineer,Film-Noir,"Maltese Falcon, The (1941)",4.357142857142857
+engineer,Horror,Halloween: The Curse of Michael Myers (1995),5.0
+engineer,Horror,Young Frankenstein (1974),4.166666666666667
+engineer,Horror,Alien (1979),4.0625
+engineer,Musical,Selena (1997),5.0
+engineer,Musical,Top Hat (1935),5.0
+engineer,Musical,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",5.0
+engineer,Mystery,Charade (1963),5.0
+engineer,Mystery,Laura (1944),5.0
+engineer,Mystery,Chinatown (1974),4.461538461538462
+engineer,Romance,Charade (1963),5.0
+engineer,Romance,Top Hat (1935),5.0
+engineer,Romance,Rebecca (1940),4.666666666666667
+engineer,Sci-Fi,Ghost in the Shell (Kokaku kidotai) (1995),4.5
+engineer,Sci-Fi,Star Wars (1977),4.48
+engineer,Sci-Fi,"Empire Strikes Back, The (1980)",4.457142857142857
+engineer,Thriller,Charade (1963),5.0
+engineer,Thriller,Halloween: The Curse of Michael Myers (1995),5.0
+engineer,Thriller,Hard Eight (1996),5.0
+engineer,War,Ran (1985),4.666666666666667
+engineer,War,Casablanca (1942),4.6
+engineer,War,Star Wars (1977),4.48
+engineer,Western,"Magnificent Seven, The (1954)",4.2
+engineer,Western,Geronimo: An American Legend (1993),4.0
+engineer,Western,Unforgiven (1992),3.8666666666666667
+entertainment,unknown,unknown,4.0
+entertainment,Action,Blown Away (1994),5.0
+entertainment,Action,Diva (1981),5.0
+entertainment,Action,Full Metal Jacket (1987),5.0
+entertainment,Adventure,"City of Lost Children, The (1995)",4.666666666666667
+entertainment,Adventure,"Empire Strikes Back, The (1980)",4.6
+entertainment,Adventure,Star Trek: The Wrath of Khan (1982),4.6
+entertainment,Animation,"Fox and the Hound, The (1981)",5.0
+entertainment,Animation,Ghost in the Shell (Kokaku kidotai) (1995),5.0
+entertainment,Animation,Pinocchio (1940),5.0
+entertainment,Children's,"Fox and the Hound, The (1981)",5.0
+entertainment,Children's,Pinocchio (1940),5.0
+entertainment,Children's,Snow White and the Seven Dwarfs (1937),5.0
+entertainment,Comedy,"Apartment, The (1960)",5.0
+entertainment,Comedy,"Band Wagon, The (1953)",5.0
+entertainment,Comedy,Blue in the Face (1995),5.0
+entertainment,Crime,Hard Eight (1996),5.0
+entertainment,Crime,Wild Things (1998),5.0
+entertainment,Crime,"Usual Suspects, The (1995)",4.8
+entertainment,Documentary,"Fast, Cheap & Out of Control (1997)",5.0
+entertainment,Documentary,Koyaanisqatsi (1983),5.0
+entertainment,Documentary,Crumb (1994),4.25
+entertainment,Drama,Anna Karenina (1997),5.0
+entertainment,Drama,"Apartment, The (1960)",5.0
+entertainment,Drama,Carried Away (1996),5.0
+entertainment,Fantasy,E.T. the Extra-Terrestrial (1982),3.6
+entertainment,Fantasy,Jumanji (1995),3.5
+entertainment,Fantasy,"Nutty Professor, The (1996)",3.5
+entertainment,Film-Noir,Chinatown (1974),5.0
+entertainment,Film-Noir,"Manchurian Candidate, The (1962)",5.0
+entertainment,Film-Noir,Notorious (1946),5.0
+entertainment,Horror,Candyman: Farewell to the Flesh (1995),5.0
+entertainment,Horror,Alien (1979),4.5
+entertainment,Horror,Bad Taste (1987),4.5
+entertainment,Musical,"American in Paris, An (1951)",5.0
+entertainment,Musical,"Band Wagon, The (1953)",5.0
+entertainment,Musical,Snow White and the Seven Dwarfs (1937),5.0
+entertainment,Mystery,Chinatown (1974),5.0
+entertainment,Mystery,Diva (1981),5.0
+entertainment,Mystery,Wild Things (1998),5.0
+entertainment,Romance,"American in Paris, An (1951)",5.0
+entertainment,Romance,Anna Karenina (1997),5.0
+entertainment,Romance,Carried Away (1996),5.0
+entertainment,Sci-Fi,"Clockwork Orange, A (1971)",5.0
+entertainment,Sci-Fi,Forbidden Planet (1956),5.0
+entertainment,Sci-Fi,Ghost in the Shell (Kokaku kidotai) (1995),5.0
+entertainment,Thriller,Blown Away (1994),5.0
+entertainment,Thriller,Chinatown (1974),5.0
+entertainment,Thriller,Color of Night (1994),5.0
+entertainment,War,Casablanca (1942),5.0
+entertainment,War,Full Metal Jacket (1987),5.0
+entertainment,War,Koyaanisqatsi (1983),5.0
+entertainment,Western,Once Upon a Time in the West (1969),5.0
+entertainment,Western,"Wild Bunch, The (1969)",5.0
+entertainment,Western,Unforgiven (1992),4.25
+executive,unknown,Good Morning (1971),1.0
+executive,Action,Last Action Hero (1993),5.0
+executive,Action,Tank Girl (1995),5.0
+executive,Action,Star Trek: The Wrath of Khan (1982),4.75
+executive,Adventure,For Whom the Bell Tolls (1943),5.0
+executive,Adventure,Star Trek: The Wrath of Khan (1982),4.75
+executive,Adventure,"Man Who Would Be King, The (1975)",4.666666666666667
+executive,Animation,Dumbo (1941),5.0
+executive,Animation,Winnie the Pooh and the Blustery Day (1968),5.0
+executive,Animation,"Lion King, The (1994)",4.714285714285714
+executive,Children's,Dumbo (1941),5.0
+executive,Children's,"Secret Garden, The (1993)",5.0
+executive,Children's,Winnie the Pooh and the Blustery Day (1968),5.0
+executive,Comedy,A Chef in Love (1996),5.0
+executive,Comedy,As Good As It Gets (1997),5.0
+executive,Comedy,Don Juan DeMarco (1995),5.0
+executive,Crime,Sneakers (1992),4.666666666666667
+executive,Crime,"Big Lebowski, The (1998)",4.5
+executive,Crime,Copycat (1995),4.5
+executive,Documentary,Hoop Dreams (1994),4.666666666666667
+executive,Documentary,Crumb (1994),4.0
+executive,Documentary,When We Were Kings (1996),4.0
+executive,Drama,Angel Baby (1995),5.0
+executive,Drama,As Good As It Gets (1997),5.0
+executive,Drama,Death and the Maiden (1994),5.0
+executive,Fantasy,"20,000 Leagues Under the Sea (1954)",4.0
+executive,Fantasy,"Indian in the Cupboard, The (1995)",4.0
+executive,Fantasy,E.T. the Extra-Terrestrial (1982),3.75
+executive,Film-Noir,"Manchurian Candidate, The (1962)",4.666666666666667
+executive,Film-Noir,"Big Sleep, The (1946)",4.5
+executive,Film-Noir,Notorious (1946),4.5
+executive,Horror,"Omen, The (1976)",4.333333333333333
+executive,Horror,Psycho (1960),4.222222222222222
+executive,Horror,"Shining, The (1980)",4.2
+executive,Musical,Dirty Dancing (1987),5.0
+executive,Musical,Dumbo (1941),5.0
+executive,Musical,"Misérables, Les (1995)",5.0
+executive,Mystery,Rear Window (1954),5.0
+executive,Mystery,2001: A Space Odyssey (1968),4.777777777777778
+executive,Mystery,"Third Man, The (1949)",4.666666666666667
+executive,Romance,Dirty Dancing (1987),5.0
+executive,Romance,Don Juan DeMarco (1995),5.0
+executive,Romance,Forget Paris (1995),5.0
+executive,Sci-Fi,Tank Girl (1995),5.0
+executive,Sci-Fi,2001: A Space Odyssey (1968),4.777777777777778
+executive,Sci-Fi,Star Trek: The Wrath of Khan (1982),4.75
+executive,Thriller,Death and the Maiden (1994),5.0
+executive,Thriller,Rear Window (1954),5.0
+executive,Thriller,Shallow Grave (1994),5.0
+executive,War,For Whom the Bell Tolls (1943),5.0
+executive,War,Casablanca (1942),4.666666666666667
+executive,War,Full Metal Jacket (1987),4.6
+executive,Western,Dances with Wolves (1990),4.25
+executive,Western,Butch Cassidy and the Sundance Kid (1969),4.222222222222222
+executive,Western,"Good, The Bad and The Ugly, The (1966)",4.0
+healthcare,Action,Best Men (1997),5.0
+healthcare,Action,"Ghost and the Darkness, The (1996)",5.0
+healthcare,Action,Jaws 2 (1978),5.0
+healthcare,Adventure,"Ghost and the Darkness, The (1996)",5.0
+healthcare,Adventure,"Quest, The (1996)",5.0
+healthcare,Adventure,"Adventures of Robin Hood, The (1938)",4.5
+healthcare,Animation,Snow White and the Seven Dwarfs (1937),4.25
+healthcare,Animation,Alice in Wonderland (1951),4.0
+healthcare,Animation,Cinderella (1950),4.0
+healthcare,Children's,Pollyanna (1960),4.333333333333333
+healthcare,Children's,Snow White and the Seven Dwarfs (1937),4.25
+healthcare,Children's,Alice in Wonderland (1951),4.0
+healthcare,Comedy,Ace Ventura: Pet Detective (1994),5.0
+healthcare,Comedy,Another Stakeout (1993),5.0
+healthcare,Comedy,Best Men (1997),5.0
+healthcare,Crime,Best Men (1997),5.0
+healthcare,Crime,They Made Me a Criminal (1939),5.0
+healthcare,Crime,"Godfather: Part II, The (1974)",4.5
+healthcare,Documentary,Paradise Lost: The Child Murders at Robin Hood Hills (1996),5.0
+healthcare,Documentary,"Celluloid Closet, The (1995)",3.6666666666666665
+healthcare,Documentary,Anne Frank Remembered (1995),3.5
+healthcare,Drama,Angel Baby (1995),5.0
+healthcare,Drama,Best Men (1997),5.0
+healthcare,Drama,How to Make an American Quilt (1995),5.0
+healthcare,Fantasy,E.T. the Extra-Terrestrial (1982),4.0
+healthcare,Fantasy,Warriors of Virtue (1997),4.0
+healthcare,Fantasy,Dragonheart (1996),3.6
+healthcare,Film-Noir,Notorious (1946),5.0
+healthcare,Film-Noir,Cape Fear (1962),4.0
+healthcare,Film-Noir,Sunset Blvd. (1950),4.0
+healthcare,Horror,Jaws 2 (1978),5.0
+healthcare,Horror,"Body Snatcher, The (1945)",4.5
+healthcare,Horror,Young Frankenstein (1974),4.25
+healthcare,Musical,"American in Paris, An (1951)",4.5
+healthcare,Musical,Snow White and the Seven Dwarfs (1937),4.25
+healthcare,Musical,Alice in Wonderland (1951),4.0
+healthcare,Mystery,Spellbound (1945),5.0
+healthcare,Mystery,"Thin Man, The (1934)",4.5
+healthcare,Mystery,Vertigo (1958),4.333333333333333
+healthcare,Romance,How to Make an American Quilt (1995),5.0
+healthcare,Romance,Notorious (1946),5.0
+healthcare,Romance,Spellbound (1945),5.0
+healthcare,Sci-Fi,"Day the Earth Stood Still, The (1951)",4.333333333333333
+healthcare,Sci-Fi,Back to the Future (1985),4.2
+healthcare,Sci-Fi,2001: A Space Odyssey (1968),4.0
+healthcare,Thriller,"39 Steps, The (1935)",5.0
+healthcare,Thriller,Another Stakeout (1993),5.0
+healthcare,Thriller,"Fan, The (1996)",5.0
+healthcare,War,Schindler's List (1993),4.4
+healthcare,War,Gone with the Wind (1939),4.25
+healthcare,War,Casablanca (1942),4.166666666666667
+healthcare,Western,City Slickers II: The Legend of Curly's Gold (1994),5.0
+healthcare,Western,Maverick (1994),4.0
+healthcare,Western,Young Guns (1988),4.0
+homemaker,Action,Braveheart (1995),5.0
+homemaker,Action,Fallen (1998),5.0
+homemaker,Action,Star Trek: First Contact (1996),5.0
+homemaker,Adventure,Star Trek: First Contact (1996),5.0
+homemaker,Adventure,Return of the Jedi (1983),4.5
+homemaker,Adventure,Twister (1996),4.333333333333333
+homemaker,Animation,Beauty and the Beast (1991),4.0
+homemaker,Animation,Hercules (1997),4.0
+homemaker,Animation,"Hunchback of Notre Dame, The (1996)",4.0
+homemaker,Children's,Beauty and the Beast (1991),4.0
+homemaker,Children's,Fly Away Home (1996),4.0
+homemaker,Children's,Free Willy 3: The Rescue (1997),4.0
+homemaker,Comedy,Everyone Says I Love You (1996),5.0
+homemaker,Comedy,My Best Friend's Wedding (1997),5.0
+homemaker,Comedy,Picture Perfect (1997),5.0
+homemaker,Crime,Deceiver (1997),5.0
+homemaker,Crime,Kiss the Girls (1997),4.5
+homemaker,Crime,L.A. Confidential (1997),4.5
+homemaker,Documentary,Ayn Rand: A Sense of Life (1997),4.0
+homemaker,Documentary,Looking for Richard (1996),3.0
+homemaker,Drama,Beautiful Girls (1996),5.0
+homemaker,Drama,Braveheart (1995),5.0
+homemaker,Drama,It's a Wonderful Life (1946),5.0
+homemaker,Fantasy,E.T. the Extra-Terrestrial (1982),2.0
+homemaker,Fantasy,Space Jam (1996),2.0
+homemaker,Fantasy,Flubber (1997),1.0
+homemaker,Film-Noir,L.A. Confidential (1997),4.5
+homemaker,Film-Noir,Mulholland Falls (1996),3.0
+homemaker,Film-Noir,Hoodlum (1997),1.0
+homemaker,Horror,"Devil's Advocate, The (1997)",4.0
+homemaker,Horror,Scream (1996),3.25
+homemaker,Horror,Alien: Resurrection (1997),3.0
+homemaker,Musical,Everyone Says I Love You (1996),5.0
+homemaker,Musical,Beauty and the Beast (1991),4.0
+homemaker,Musical,Evita (1996),4.0
+homemaker,Mystery,Fallen (1998),5.0
+homemaker,Mystery,"Game, The (1997)",4.75
+homemaker,Mystery,L.A. Confidential (1997),4.5
+homemaker,Romance,Everyone Says I Love You (1996),5.0
+homemaker,Romance,In Love and War (1996),5.0
+homemaker,Romance,Jane Eyre (1996),5.0
+homemaker,Sci-Fi,Star Trek: First Contact (1996),5.0
+homemaker,Sci-Fi,Return of the Jedi (1983),4.5
+homemaker,Sci-Fi,Gattaca (1997),4.0
+homemaker,Thriller,Fallen (1998),5.0
+homemaker,Thriller,"Game, The (1997)",4.75
+homemaker,Thriller,Apt Pupil (1998),4.5
+homemaker,War,Braveheart (1995),5.0
+homemaker,War,In Love and War (1996),5.0
+homemaker,War,"Peacemaker, The (1997)",4.5
+lawyer,Action,Army of Darkness (1993),5.0
+lawyer,Action,"Crying Game, The (1992)",5.0
+lawyer,Action,Deep Rising (1998),5.0
+lawyer,Adventure,Army of Darkness (1993),5.0
+lawyer,Adventure,For Whom the Bell Tolls (1943),5.0
+lawyer,Adventure,GoldenEye (1995),5.0
+lawyer,Animation,Anastasia (1997),5.0
+lawyer,Animation,"Close Shave, A (1995)",5.0
+lawyer,Animation,Ghost in the Shell (Kokaku kidotai) (1995),5.0
+lawyer,Children's,Anastasia (1997),5.0
+lawyer,Children's,George of the Jungle (1997),5.0
+lawyer,Children's,"Little Princess, The (1939)",5.0
+lawyer,Comedy,Army of Darkness (1993),5.0
+lawyer,Comedy,Bob Roberts (1992),5.0
+lawyer,Comedy,Charade (1963),5.0
+lawyer,Crime,Bonnie and Clyde (1967),5.0
+lawyer,Crime,Donnie Brasco (1997),5.0
+lawyer,Crime,GoodFellas (1990),5.0
+lawyer,Documentary,"Thin Blue Line, The (1988)",5.0
+lawyer,Documentary,Year of the Horse (1997),5.0
+lawyer,Documentary,Crumb (1994),4.5
+lawyer,Drama,Apocalypse Now (1979),5.0
+lawyer,Drama,Beautiful Thing (1996),5.0
+lawyer,Drama,Bonnie and Clyde (1967),5.0
+lawyer,Fantasy,"20,000 Leagues Under the Sea (1954)",4.0
+lawyer,Fantasy,Flubber (1997),4.0
+lawyer,Fantasy,Heavenly Creatures (1994),4.0
+lawyer,Film-Noir,"Grifters, The (1990)",5.0
+lawyer,Film-Noir,Laura (1944),5.0
+lawyer,Film-Noir,M (1931),5.0
+lawyer,Horror,Army of Darkness (1993),5.0
+lawyer,Horror,Deep Rising (1998),5.0
+lawyer,Horror,Interview with the Vampire (1994),5.0
+lawyer,Musical,Anastasia (1997),5.0
+lawyer,Musical,Mary Poppins (1964),5.0
+lawyer,Musical,My Fair Lady (1964),5.0
+lawyer,Mystery,Charade (1963),5.0
+lawyer,Mystery,Laura (1944),5.0
+lawyer,Mystery,"Maltese Falcon, The (1941)",5.0
+lawyer,Romance,Beautiful Thing (1996),5.0
+lawyer,Romance,Charade (1963),5.0
+lawyer,Romance,"Crying Game, The (1992)",5.0
+lawyer,Sci-Fi,Army of Darkness (1993),5.0
+lawyer,Sci-Fi,"Clockwork Orange, A (1971)",5.0
+lawyer,Sci-Fi,Deep Rising (1998),5.0
+lawyer,Thriller,Charade (1963),5.0
+lawyer,Thriller,"Close Shave, A (1995)",5.0
+lawyer,Thriller,GoldenEye (1995),5.0
+lawyer,War,Apocalypse Now (1979),5.0
+lawyer,War,"Crying Game, The (1992)",5.0
+lawyer,War,For Whom the Bell Tolls (1943),5.0
+lawyer,Western,"Quick and the Dead, The (1995)",5.0
+lawyer,Western,"Wild Bunch, The (1969)",5.0
+lawyer,Western,High Noon (1952),4.5
+librarian,Action,"Die xue shuang xiong (Killer, The) (1989)",5.0
+librarian,Action,Judgment Night (1993),5.0
+librarian,Action,Mad City (1997),5.0
+librarian,Adventure,Black Beauty (1994),5.0
+librarian,Adventure,White Squall (1996),5.0
+librarian,Adventure,"Adventures of Robin Hood, The (1938)",4.5
+librarian,Animation,Cats Don't Dance (1997),5.0
+librarian,Animation,Anastasia (1997),4.5
+librarian,Animation,"Close Shave, A (1995)",4.5
+librarian,Children's,Black Beauty (1994),5.0
+librarian,Children's,Cats Don't Dance (1997),5.0
+librarian,Children's,Air Bud (1997),4.5
+librarian,Comedy,Cabin Boy (1994),5.0
+librarian,Comedy,"Great Dictator, The (1940)",5.0
+librarian,Comedy,In the Bleak Midwinter (1995),5.0
+librarian,Crime,"Letter From Death Row, A (1998)",5.0
+librarian,Crime,M (1931),5.0
+librarian,Crime,"Big Lebowski, The (1998)",4.428571428571429
+librarian,Documentary,"Haunted World of Edward D. Wood Jr., The (1995)",5.0
+librarian,Documentary,Maya Lin: A Strong Clear Vision (1994),5.0
+librarian,Documentary,Thirty-Two Short Films About Glenn Gould (1993),4.5
+librarian,Drama,Anna (1996),5.0
+librarian,Drama,Aparajito (1956),5.0
+librarian,Drama,Fearless (1993),5.0
+librarian,Fantasy,E.T. the Extra-Terrestrial (1982),4.071428571428571
+librarian,Fantasy,"20,000 Leagues Under the Sea (1954)",4.0
+librarian,Fantasy,Heavenly Creatures (1994),3.8333333333333335
+librarian,Film-Noir,M (1931),5.0
+librarian,Film-Noir,Palmetto (1998),4.5
+librarian,Film-Noir,Sunset Blvd. (1950),4.5
+librarian,Horror,Alien (1979),4.25
+librarian,Horror,Psycho (1960),4.083333333333333
+librarian,Horror,Army of Darkness (1993),4.0
+librarian,Musical,Cats Don't Dance (1997),5.0
+librarian,Musical,Anastasia (1997),4.5
+librarian,Musical,"Wizard of Oz, The (1939)",4.153846153846154
+librarian,Mystery,"Daytrippers, The (1996)",5.0
+librarian,Mystery,"Third Man, The (1949)",4.666666666666667
+librarian,Mystery,Lone Star (1996),4.5625
+librarian,Romance,Little City (1998),5.0
+librarian,Romance,Mrs. Dalloway (1997),5.0
+librarian,Romance,"Pillow Book, The (1995)",5.0
+librarian,Sci-Fi,Alien (1979),4.25
+librarian,Sci-Fi,Blade Runner (1982),4.25
+librarian,Sci-Fi,Star Wars (1977),4.25
+librarian,Thriller,Assassins (1995),5.0
+librarian,Thriller,"Die xue shuang xiong (Killer, The) (1989)",5.0
+librarian,Thriller,"Last Supper, The (1995)",5.0
+librarian,War,Duck Soup (1933),4.666666666666667
+librarian,War,Schindler's List (1993),4.523809523809524
+librarian,War,Casablanca (1942),4.428571428571429
+librarian,Western,Once Upon a Time in the West (1969),5.0
+librarian,Western,"Wild Bunch, The (1969)",5.0
+librarian,Western,Dead Man (1995),4.2
+marketing,Action,Heavy Metal (1981),5.0
+marketing,Action,In the Line of Duty 2 (1987),5.0
+marketing,Action,The Deadly Cure (1996),5.0
+marketing,Adventure,Heavy Metal (1981),5.0
+marketing,Adventure,"Man Who Would Be King, The (1975)",5.0
+marketing,Adventure,"Treasure of the Sierra Madre, The (1948)",5.0
+marketing,Animation,Heavy Metal (1981),5.0
+marketing,Animation,"Wrong Trousers, The (1993)",5.0
+marketing,Animation,"Close Shave, A (1995)",4.666666666666667
+marketing,Children's,"Sword in the Stone, The (1963)",4.5
+marketing,Children's,E.T. the Extra-Terrestrial (1982),4.333333333333333
+marketing,Children's,Aladdin (1992),4.0
+marketing,Comedy,As Good As It Gets (1997),5.0
+marketing,Comedy,Being There (1979),5.0
+marketing,Comedy,Brassed Off (1996),5.0
+marketing,Crime,"Godfather: Part II, The (1974)",4.6
+marketing,Crime,Hoodlum (1997),4.5
+marketing,Crime,"Godfather, The (1972)",4.416666666666667
+marketing,Documentary,Anne Frank Remembered (1995),5.0
+marketing,Documentary,"Celluloid Closet, The (1995)",5.0
+marketing,Documentary,Hoop Dreams (1994),4.0
+marketing,Drama,As Good As It Gets (1997),5.0
+marketing,Drama,Beautiful Thing (1996),5.0
+marketing,Drama,Before Sunrise (1995),5.0
+marketing,Fantasy,E.T. the Extra-Terrestrial (1982),4.333333333333333
+marketing,Fantasy,Dragonheart (1996),4.0
+marketing,Fantasy,Flubber (1997),4.0
+marketing,Film-Noir,"Big Sleep, The (1946)",5.0
+marketing,Film-Noir,Blade Runner (1982),4.75
+marketing,Film-Noir,Chinatown (1974),4.666666666666667
+marketing,Horror,Heavy Metal (1981),5.0
+marketing,Horror,Psycho (1960),4.75
+marketing,Horror,"Birds, The (1963)",4.666666666666667
+marketing,Musical,"Sound of Music, The (1965)",4.333333333333333
+marketing,Musical,Aladdin (1992),4.0
+marketing,Musical,Alice in Wonderland (1951),4.0
+marketing,Mystery,"Big Sleep, The (1946)",5.0
+marketing,Mystery,Rear Window (1954),4.714285714285714
+marketing,Mystery,Chinatown (1974),4.666666666666667
+marketing,Romance,Beautiful Thing (1996),5.0
+marketing,Romance,Before Sunrise (1995),5.0
+marketing,Romance,Brassed Off (1996),5.0
+marketing,Sci-Fi,Heavy Metal (1981),5.0
+marketing,Sci-Fi,Blade Runner (1982),4.75
+marketing,Sci-Fi,Night of the Living Dead (1968),4.5
+marketing,Thriller,Assassins (1995),5.0
+marketing,Thriller,Apt Pupil (1998),4.75
+marketing,Thriller,Psycho (1960),4.75
+marketing,War,Legends of the Fall (1994),5.0
+marketing,War,Crimson Tide (1995),4.666666666666667
+marketing,War,"Killing Fields, The (1984)",4.666666666666667
+marketing,Western,Legends of the Fall (1994),5.0
+marketing,Western,Butch Cassidy and the Sundance Kid (1969),4.0
+marketing,Western,High Noon (1952),4.0
+none,unknown,unknown,5.0
+none,Action,"Crow, The (1994)",5.0
+none,Action,Demolition Man (1993),5.0
+none,Action,Desperado (1995),5.0
+none,Adventure,"City of Lost Children, The (1995)",5.0
+none,Adventure,Hercules (1997),5.0
+none,Adventure,"Jungle Book, The (1994)",5.0
+none,Animation,Anastasia (1997),5.0
+none,Animation,Cats Don't Dance (1997),5.0
+none,Animation,Hercules (1997),5.0
+none,Children's,Anastasia (1997),5.0
+none,Children's,Cats Don't Dance (1997),5.0
+none,Children's,Hercules (1997),5.0
+none,Comedy,"American President, The (1995)",5.0
+none,Comedy,Austin Powers: International Man of Mystery (1997),5.0
+none,Comedy,Bean (1997),5.0
+none,Crime,Donnie Brasco (1997),5.0
+none,Crime,From Dusk Till Dawn (1996),5.0
+none,Crime,Incognito (1997),5.0
+none,Documentary,When We Were Kings (1996),4.0
+none,Drama,12 Angry Men (1957),5.0
+none,Drama,"American President, The (1995)",5.0
+none,Drama,Bed of Roses (1996),5.0
+none,Fantasy,"Nutty Professor, The (1996)",4.5
+none,Fantasy,E.T. the Extra-Terrestrial (1982),4.0
+none,Fantasy,Space Jam (1996),4.0
+none,Film-Noir,"Manchurian Candidate, The (1962)",5.0
+none,Film-Noir,Blade Runner (1982),4.333333333333333
+none,Film-Noir,"Grifters, The (1990)",3.3333333333333335
+none,Horror,Candyman (1992),5.0
+none,Horror,Candyman: Farewell to the Flesh (1995),5.0
+none,Horror,From Dusk Till Dawn (1996),5.0
+none,Musical,Anastasia (1997),5.0
+none,Musical,Cats Don't Dance (1997),5.0
+none,Musical,Hercules (1997),5.0
+none,Mystery,"Game, The (1997)",5.0
+none,Mystery,Just Cause (1995),5.0
+none,Mystery,Rear Window (1954),5.0
+none,Romance,"American President, The (1995)",5.0
+none,Romance,Bed of Roses (1996),5.0
+none,Romance,"Crow, The (1994)",5.0
+none,Sci-Fi,"City of Lost Children, The (1995)",5.0
+none,Sci-Fi,Demolition Man (1993),5.0
+none,Sci-Fi,Gattaca (1997),5.0
+none,Thriller,"Crow, The (1994)",5.0
+none,Thriller,Desperado (1995),5.0
+none,Thriller,Fire Down Below (1997),5.0
+none,War,"Bridge on the River Kwai, The (1957)",5.0
+none,War,Forrest Gump (1994),5.0
+none,War,G.I. Jane (1997),5.0
+none,Western,Dead Man (1995),4.0
+none,Western,Legends of the Fall (1994),4.0
+none,Western,Unforgiven (1992),4.0
+other,unknown,unknown,4.0
+other,Action,Turbo: A Power Rangers Movie (1997),5.0
+other,Action,"Boot, Das (1981)",4.434782608695652
+other,Action,Desperado (1995),4.4
+other,Adventure,For Whom the Bell Tolls (1943),5.0
+other,Adventure,Golden Earrings (1947),5.0
+other,Adventure,Lassie (1994),5.0
+other,Animation,Faust (1994),5.0
+other,Animation,Ghost in the Shell (Kokaku kidotai) (1995),5.0
+other,Animation,"Close Shave, A (1995)",4.6
+other,Children's,Lassie (1994),5.0
+other,Children's,Star Kid (1997),5.0
+other,Children's,Turbo: A Power Rangers Movie (1997),5.0
+other,Comedy,Hotel de Love (1996),5.0
+other,Comedy,How to Be a Player (1997),5.0
+other,Comedy,In the Bleak Midwinter (1995),5.0
+other,Crime,Incognito (1997),5.0
+other,Crime,"Letter From Death Row, A (1998)",5.0
+other,Crime,Once Were Warriors (1994),5.0
+other,Documentary,Heidi Fleiss: Hollywood Madam (1995) ,5.0
+other,Documentary,Koyaanisqatsi (1983),5.0
+other,Documentary,Microcosmos: Le peuple de l'herbe (1996),5.0
+other,Drama,Afterglow (1997),5.0
+other,Drama,Dangerous Beauty (1998),5.0
+other,Drama,Delta of Venus (1994),5.0
+other,Fantasy,Star Kid (1997),5.0
+other,Fantasy,E.T. the Extra-Terrestrial (1982),4.085714285714285
+other,Fantasy,Heavenly Creatures (1994),4.0
+other,Film-Noir,Notorious (1946),4.666666666666667
+other,Film-Noir,"Manchurian Candidate, The (1962)",4.5
+other,Film-Noir,Touch of Evil (1958),4.333333333333333
+other,Horror,Bride of Frankenstein (1935),4.666666666666667
+other,Horror,Alien (1979),4.0
+other,Horror,"Birds, The (1963)",4.0
+other,Musical,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",5.0
+other,Musical,Farinelli: il castrato (1994),4.5
+other,Musical,Grease 2 (1982),4.5
+other,Mystery,Dial M for Murder (1954),4.5
+other,Mystery,Spellbound (1945),4.5
+other,Mystery,"Third Man, The (1949)",4.5
+other,Romance,Afterglow (1997),5.0
+other,Romance,Golden Earrings (1947),5.0
+other,Romance,Hotel de Love (1996),5.0
+other,Sci-Fi,Ghost in the Shell (Kokaku kidotai) (1995),5.0
+other,Sci-Fi,Star Kid (1997),5.0
+other,Sci-Fi,Star Wars (1977),4.193548387096774
+other,Thriller,"Assignment, The (1997)",5.0
+other,Thriller,Incognito (1997),5.0
+other,Thriller,"Innocents, The (1961)",5.0
+other,War,For Whom the Bell Tolls (1943),5.0
+other,War,Koyaanisqatsi (1983),5.0
+other,War,Stalingrad (1993),5.0
+other,Western,Dances with Wolves (1990),4.21875
+other,Western,High Noon (1952),4.1
+other,Western,Geronimo: An American Legend (1993),4.0
+programmer,unknown,unknown,4.0
+programmer,Action,Cyrano de Bergerac (1990),4.666666666666667
+programmer,Action,Titanic (1997),4.583333333333333
+programmer,Action,Star Wars (1977),4.54
+programmer,Adventure,"Old Man and the Sea, The (1958)",4.666666666666667
+programmer,Adventure,Star Wars (1977),4.54
+programmer,Adventure,"20,000 Leagues Under the Sea (1954)",4.5
+programmer,Animation,Wallace & Gromit: The Best of Aardman Animation (1996),5.0
+programmer,Animation,"Wrong Trousers, The (1993)",4.764705882352941
+programmer,Animation,"Close Shave, A (1995)",4.6923076923076925
+programmer,Children's,"Little Princess, The (1939)",5.0
+programmer,Children's,Old Yeller (1957),5.0
+programmer,Children's,"20,000 Leagues Under the Sea (1954)",4.5
+programmer,Comedy,Crooklyn (1994),5.0
+programmer,Comedy,Faithful (1996),5.0
+programmer,Comedy,Girl 6 (1996),5.0
+programmer,Crime,Laura (1944),5.0
+programmer,Crime,"Big Lebowski, The (1998)",4.5
+programmer,Crime,"Usual Suspects, The (1995)",4.458333333333333
+programmer,Documentary,Paradise Lost: The Child Murders at Robin Hood Hills (1996),5.0
+programmer,Documentary,"Perfect Candidate, A (1996)",5.0
+programmer,Documentary,Koyaanisqatsi (1983),4.5
+programmer,Drama,8 Seconds (1994),5.0
+programmer,Drama,Beautiful Thing (1996),5.0
+programmer,Drama,"Little Princess, The (1939)",5.0
+programmer,Fantasy,"20,000 Leagues Under the Sea (1954)",4.5
+programmer,Fantasy,E.T. the Extra-Terrestrial (1982),4.041666666666667
+programmer,Fantasy,Jumanji (1995),3.8
+programmer,Film-Noir,Laura (1944),5.0
+programmer,Film-Noir,Sunset Blvd. (1950),4.5
+programmer,Film-Noir,Blade Runner (1982),4.375
+programmer,Horror,Mary Shelley's Frankenstein (1994),4.5
+programmer,Horror,"Prophecy, The (1995)",4.5
+programmer,Horror,Alien (1979),4.117647058823529
+programmer,Musical,"Misérables, Les (1995)",5.0
+programmer,Musical,Shall We Dance? (1937),4.5
+programmer,Musical,Alice in Wonderland (1951),4.333333333333333
+programmer,Mystery,Laura (1944),5.0
+programmer,Mystery,"Big Lebowski, The (1998)",4.5
+programmer,Mystery,Six Degrees of Separation (1993),4.3
+programmer,Romance,Beautiful Thing (1996),5.0
+programmer,Romance,Love in the Afternoon (1957),5.0
+programmer,Romance,Casablanca (1942),4.666666666666667
+programmer,Sci-Fi,Star Wars (1977),4.54
+programmer,Sci-Fi,"20,000 Leagues Under the Sea (1954)",4.5
+programmer,Sci-Fi,Sleeper (1973),4.5
+programmer,Thriller,Fear (1996),5.0
+programmer,Thriller,"Close Shave, A (1995)",4.6923076923076925
+programmer,Thriller,"Wings of the Dove, The (1997)",4.666666666666667
+programmer,War,Casablanca (1942),4.666666666666667
+programmer,War,Paths of Glory (1957),4.666666666666667
+programmer,War,Star Wars (1977),4.54
+programmer,Western,High Noon (1952),4.5
+programmer,Western,Once Upon a Time in the West (1969),4.5
+programmer,Western,Legends of the Fall (1994),4.333333333333333
+retired,Action,"African Queen, The (1951)",5.0
+retired,Action,Evil Dead II (1987),5.0
+retired,Action,Speed (1994),5.0
+retired,Adventure,"African Queen, The (1951)",5.0
+retired,Adventure,Evil Dead II (1987),5.0
+retired,Adventure,Starship Troopers (1997),5.0
+retired,Animation,"Close Shave, A (1995)",5.0
+retired,Animation,"Wrong Trousers, The (1993)",5.0
+retired,Animation,Snow White and the Seven Dwarfs (1937),4.5
+retired,Children's,"Nightmare Before Christmas, The (1993)",4.5
+retired,Children's,Snow White and the Seven Dwarfs (1937),4.5
+retired,Children's,Babe (1995),4.333333333333333
+retired,Comedy,"Big Lebowski, The (1998)",5.0
+retired,Comedy,Braindead (1992),5.0
+retired,Comedy,"Close Shave, A (1995)",5.0
+retired,Crime,"Big Lebowski, The (1998)",5.0
+retired,Crime,"Sting, The (1973)",4.8
+retired,Crime,Some Like It Hot (1959),4.666666666666667
+retired,Documentary,Koyaanisqatsi (1983),5.0
+retired,Documentary,Crumb (1994),4.0
+retired,Documentary,Looking for Richard (1996),4.0
+retired,Drama,All About Eve (1950),5.0
+retired,Drama,"Basketball Diaries, The (1995)",5.0
+retired,Drama,Love! Valour! Compassion! (1997),5.0
+retired,Fantasy,E.T. the Extra-Terrestrial (1982),4.25
+retired,Fantasy,FairyTale: A True Story (1997),4.0
+retired,Fantasy,Heavenly Creatures (1994),4.0
+retired,Film-Noir,"Big Sleep, The (1946)",4.5
+retired,Film-Noir,Laura (1944),4.5
+retired,Film-Noir,"Manchurian Candidate, The (1962)",4.25
+retired,Horror,Braindead (1992),5.0
+retired,Horror,Evil Dead II (1987),5.0
+retired,Horror,Alien 3 (1992),4.0
+retired,Musical,Singin' in the Rain (1952),4.666666666666667
+retired,Musical,"Nightmare Before Christmas, The (1993)",4.5
+retired,Musical,Snow White and the Seven Dwarfs (1937),4.5
+retired,Mystery,"Big Lebowski, The (1998)",5.0
+retired,Mystery,Amadeus (1984),4.5
+retired,Mystery,"Big Sleep, The (1946)",4.5
+retired,Romance,"African Queen, The (1951)",5.0
+retired,Romance,Love! Valour! Compassion! (1997),5.0
+retired,Romance,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",5.0
+retired,Sci-Fi,Starship Troopers (1997),5.0
+retired,Sci-Fi,2001: A Space Odyssey (1968),4.333333333333333
+retired,Sci-Fi,Sleeper (1973),4.333333333333333
+retired,Thriller,"Big Lebowski, The (1998)",5.0
+retired,Thriller,"Close Shave, A (1995)",5.0
+retired,Thriller,Speed (1994),5.0
+retired,War,"African Queen, The (1951)",5.0
+retired,War,Koyaanisqatsi (1983),5.0
+retired,War,Starship Troopers (1997),5.0
+retired,Western,Unforgiven (1992),4.5
+retired,Western,High Noon (1952),4.2
+retired,Western,Butch Cassidy and the Sundance Kid (1969),4.0
+salesman,Action,Alien: Resurrection (1997),5.0
+salesman,Action,Aliens (1986),5.0
+salesman,Action,Apollo 13 (1995),5.0
+salesman,Adventure,Dances with Wolves (1990),5.0
+salesman,Adventure,Evil Dead II (1987),5.0
+salesman,Adventure,Jurassic Park (1993),5.0
+salesman,Animation,Beauty and the Beast (1991),5.0
+salesman,Animation,"Lion King, The (1994)",5.0
+salesman,Animation,Wallace & Gromit: The Best of Aardman Animation (1996),5.0
+salesman,Children's,Beauty and the Beast (1991),5.0
+salesman,Children's,E.T. the Extra-Terrestrial (1982),5.0
+salesman,Children's,"Lion King, The (1994)",5.0
+salesman,Comedy,Austin Powers: International Man of Mystery (1997),5.0
+salesman,Comedy,"Brothers McMullen, The (1995)",5.0
+salesman,Comedy,Clerks (1994),5.0
+salesman,Crime,Deceiver (1997),5.0
+salesman,Crime,Desperate Measures (1998),5.0
+salesman,Crime,Jackie Brown (1997),5.0
+salesman,Documentary,Hoop Dreams (1994),5.0
+salesman,Documentary,"Thin Blue Line, The (1988)",3.0
+salesman,Drama,2001: A Space Odyssey (1968),5.0
+salesman,Drama,Amadeus (1984),5.0
+salesman,Drama,Angels and Insects (1995),5.0
+salesman,Fantasy,E.T. the Extra-Terrestrial (1982),5.0
+salesman,Fantasy,Dragonheart (1996),4.0
+salesman,Fantasy,Jumanji (1995),4.0
+salesman,Film-Noir,"Maltese Falcon, The (1941)",5.0
+salesman,Film-Noir,"Manchurian Candidate, The (1962)",5.0
+salesman,Film-Noir,L.A. Confidential (1997),4.666666666666667
+salesman,Horror,Alien: Resurrection (1997),5.0
+salesman,Horror,Evil Dead II (1987),5.0
+salesman,Horror,Jaws (1975),4.5
+salesman,Musical,Beauty and the Beast (1991),5.0
+salesman,Musical,"Lion King, The (1994)",5.0
+salesman,Musical,Pink Floyd - The Wall (1982),5.0
+salesman,Mystery,2001: A Space Odyssey (1968),5.0
+salesman,Mystery,Absolute Power (1997),5.0
+salesman,Mystery,Amadeus (1984),5.0
+salesman,Romance,Angels and Insects (1995),5.0
+salesman,Romance,Anna Karenina (1997),5.0
+salesman,Romance,Casablanca (1942),5.0
+salesman,Sci-Fi,2001: A Space Odyssey (1968),5.0
+salesman,Sci-Fi,Alien: Resurrection (1997),5.0
+salesman,Sci-Fi,Aliens (1986),5.0
+salesman,Thriller,2001: A Space Odyssey (1968),5.0
+salesman,Thriller,Absolute Power (1997),5.0
+salesman,Thriller,Aliens (1986),5.0
+salesman,War,Aliens (1986),5.0
+salesman,War,"Boot, Das (1981)",5.0
+salesman,War,"Bridge on the River Kwai, The (1957)",5.0
+salesman,Western,Dances with Wolves (1990),5.0
+salesman,Western,Last Man Standing (1996),5.0
+salesman,Western,Tombstone (1993),5.0
+scientist,Action,Cyrano de Bergerac (1990),5.0
+scientist,Action,Fire Down Below (1997),5.0
+scientist,Action,Diva (1981),4.666666666666667
+scientist,Adventure,Lawrence of Arabia (1962),5.0
+scientist,Adventure,"Man Who Would Be King, The (1975)",5.0
+scientist,Adventure,Star Trek: The Wrath of Khan (1982),4.666666666666667
+scientist,Animation,"Close Shave, A (1995)",4.5
+scientist,Animation,Fantasia (1940),4.2
+scientist,Animation,Alice in Wonderland (1951),4.0
+scientist,Children's,Fantasia (1940),4.2
+scientist,Children's,Alice in Wonderland (1951),4.0
+scientist,Children's,"Aristocats, The (1970)",4.0
+scientist,Comedy,"Big Lebowski, The (1998)",5.0
+scientist,Comedy,"Great Dictator, The (1940)",5.0
+scientist,Comedy,"Hudsucker Proxy, The (1994)",5.0
+scientist,Crime,"Big Lebowski, The (1998)",5.0
+scientist,Crime,Reservoir Dogs (1992),5.0
+scientist,Crime,"Godfather: Part II, The (1974)",4.5
+scientist,Documentary,Hoop Dreams (1994),4.5
+scientist,Documentary,Koyaanisqatsi (1983),4.5
+scientist,Documentary,Crumb (1994),4.0
+scientist,Drama,12 Angry Men (1957),5.0
+scientist,Drama,Antonia's Line (1995),5.0
+scientist,Drama,"Ballad of Narayama, The (Narayama Bushiko) (1958)",5.0
+scientist,Fantasy,Escape to Witch Mountain (1975),4.0
+scientist,Fantasy,E.T. the Extra-Terrestrial (1982),3.75
+scientist,Fantasy,Dragonheart (1996),3.0
+scientist,Film-Noir,"Big Sleep, The (1946)",5.0
+scientist,Film-Noir,"Manchurian Candidate, The (1962)",5.0
+scientist,Film-Noir,Blade Runner (1982),4.428571428571429
+scientist,Horror,"Nightmare on Elm Street, A (1984)",5.0
+scientist,Horror,Psycho (1960),4.666666666666667
+scientist,Horror,Alien (1979),4.0
+scientist,Musical,Fantasia (1940),4.2
+scientist,Musical,Alice in Wonderland (1951),4.0
+scientist,Musical,Cinderella (1950),4.0
+scientist,Mystery,"Big Lebowski, The (1998)",5.0
+scientist,Mystery,"Big Sleep, The (1946)",5.0
+scientist,Mystery,Diva (1981),4.666666666666667
+scientist,Romance,Beautiful Thing (1996),5.0
+scientist,Romance,Cyrano de Bergerac (1990),5.0
+scientist,Romance,"Hudsucker Proxy, The (1994)",5.0
+scientist,Sci-Fi,Alphaville (1965),5.0
+scientist,Sci-Fi,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),4.714285714285714
+scientist,Sci-Fi,Star Trek: The Wrath of Khan (1982),4.666666666666667
+scientist,Thriller,"Big Lebowski, The (1998)",5.0
+scientist,Thriller,Fire Down Below (1997),5.0
+scientist,Thriller,"Manchurian Candidate, The (1962)",5.0
+scientist,War,Lawrence of Arabia (1962),5.0
+scientist,War,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),4.714285714285714
+scientist,War,Casablanca (1942),4.666666666666667
+scientist,Western,Butch Cassidy and the Sundance Kid (1969),4.0
+scientist,Western,Dead Man (1995),4.0
+scientist,Western,High Noon (1952),4.0
+student,unknown,unknown,3.0
+student,Action,Titanic (1997),4.544303797468355
+student,Action,"Godfather, The (1972)",4.4868421052631575
+student,Action,Star Wars (1977),4.416666666666667
+student,Adventure,"Mark of Zorro, The (1940)",5.0
+student,Adventure,"City of Lost Children, The (1995)",4.6
+student,Adventure,"Amazing Panda Adventure, The (1995)",4.5
+student,Animation,Faust (1994),5.0
+student,Animation,Gumby: The Movie (1995),5.0
+student,Animation,Wallace & Gromit: The Best of Aardman Animation (1996),4.714285714285714
+student,Children's,Gumby: The Movie (1995),5.0
+student,Children's,Shiloh (1997),5.0
+student,Children's,"Amazing Panda Adventure, The (1995)",4.5
+student,Comedy,Critical Care (1997),5.0
+student,Comedy,Santa with Muscles (1996),5.0
+student,Comedy,Cinema Paradiso (1988),4.933333333333334
+student,Crime,"Thieves (Voleurs, Les) (1996)",5.0
+student,Crime,Wild Things (1998),5.0
+student,Crime,Hard Eight (1996),4.666666666666667
+student,Documentary,"Haunted World of Edward D. Wood Jr., The (1995)",5.0
+student,Documentary,Paradise Lost: The Child Murders at Robin Hood Hills (1996),5.0
+student,Documentary,When We Were Kings (1996),4.833333333333333
+student,Drama,Beautiful Thing (1996),5.0
+student,Drama,Before the Rain (Pred dozhdot) (1994),5.0
+student,Drama,"Cement Garden, The (1993)",5.0
+student,Fantasy,Heavenly Creatures (1994),4.1
+student,Fantasy,E.T. the Extra-Terrestrial (1982),3.4923076923076923
+student,Fantasy,"20,000 Leagues Under the Sea (1954)",3.357142857142857
+student,Film-Noir,"Manchurian Candidate, The (1962)",4.6
+student,Film-Noir,M (1931),4.5
+student,Film-Noir,Laura (1944),4.333333333333333
+student,Horror,Braindead (1992),4.571428571428571
+student,Horror,Bride of Frankenstein (1935),4.25
+student,Horror,Psycho (1960),4.020833333333333
+student,Musical,"Inspector General, The (1949)",5.0
+student,Musical,Singin' in the Rain (1952),4.0588235294117645
+student,Musical,"Blues Brothers, The (1980)",4.017857142857143
+student,Mystery,Wild Things (1998),5.0
+student,Mystery,"Thin Man, The (1934)",4.5
+student,Mystery,"Third Man, The (1949)",4.428571428571429
+student,Romance,Beautiful Thing (1996),5.0
+student,Romance,"Thieves (Voleurs, Les) (1996)",5.0
+student,Romance,Walking and Talking (1996),5.0
+student,Sci-Fi,Alphaville (1965),5.0
+student,Sci-Fi,"City of Lost Children, The (1995)",4.6
+student,Sci-Fi,Star Wars (1977),4.416666666666667
+student,Thriller,Wild Things (1998),5.0
+student,Thriller,Hard Eight (1996),4.666666666666667
+student,Thriller,"Manchurian Candidate, The (1962)",4.6
+student,War,Underground (1995),5.0
+student,War,Paths of Glory (1957),4.666666666666667
+student,War,Casablanca (1942),4.631578947368421
+student,Western,Once Upon a Time in the West (1969),4.333333333333333
+student,Western,Dead Man (1995),4.166666666666667
+student,Western,"Wild Bunch, The (1969)",4.111111111111111
+technician,unknown,unknown,4.0
+technician,Action,"Princess Bride, The (1987)",4.666666666666667
+technician,Action,Ben-Hur (1959),4.5
+technician,Action,Blues Brothers 2000 (1998),4.5
+technician,Adventure,"Princess Bride, The (1987)",4.666666666666667
+technician,Adventure,Ben-Hur (1959),4.5
+technician,Adventure,"Great Escape, The (1963)",4.5
+technician,Animation,Dumbo (1941),5.0
+technician,Animation,"Wrong Trousers, The (1993)",5.0
+technician,Animation,Wallace & Gromit: The Best of Aardman Animation (1996),4.666666666666667
+technician,Children's,Dumbo (1941),5.0
+technician,Children's,"Little Princess, A (1995)",5.0
+technician,Children's,Fantasia (1940),4.5
+technician,Comedy,Eat Drink Man Woman (1994),5.0
+technician,Comedy,Flirting With Disaster (1996),5.0
+technician,Comedy,"Gay Divorcee, The (1934)",5.0
+technician,Crime,Incognito (1997),5.0
+technician,Crime,Laura (1944),5.0
+technician,Crime,Midnight in the Garden of Good and Evil (1997),5.0
+technician,Documentary,Maya Lin: A Strong Clear Vision (1994),5.0
+technician,Documentary,Paris Is Burning (1990),5.0
+technician,Documentary,Wonderland (1997),5.0
+technician,Drama,Antonia's Line (1995),5.0
+technician,Drama,Basquiat (1996),5.0
+technician,Drama,Beautiful Thing (1996),5.0
+technician,Fantasy,E.T. the Extra-Terrestrial (1982),3.7142857142857144
+technician,Fantasy,Dragonheart (1996),3.6
+technician,Fantasy,"20,000 Leagues Under the Sea (1954)",3.3333333333333335
+technician,Film-Noir,"Big Sleep, The (1946)",5.0
+technician,Film-Noir,Laura (1944),5.0
+technician,Film-Noir,"Maltese Falcon, The (1941)",4.571428571428571
+technician,Horror,Alien (1979),4.142857142857143
+technician,Horror,"Birds, The (1963)",4.0
+technician,Horror,Lord of Illusions (1995),4.0
+technician,Musical,Dumbo (1941),5.0
+technician,Musical,"Gay Divorcee, The (1934)",5.0
+technician,Musical,"Great Race, The (1965)",5.0
+technician,Mystery,"Big Sleep, The (1946)",5.0
+technician,Mystery,Laura (1944),5.0
+technician,Mystery,Midnight in the Garden of Good and Evil (1997),5.0
+technician,Romance,Beautiful Thing (1996),5.0
+technician,Romance,"Bridges of Madison County, The (1995)",5.0
+technician,Romance,"Gay Divorcee, The (1934)",5.0
+technician,Sci-Fi,Gattaca (1997),5.0
+technician,Sci-Fi,Delicatessen (1991),4.666666666666667
+technician,Sci-Fi,Sleeper (1973),4.5
+technician,Thriller,"Assignment, The (1997)",5.0
+technician,Thriller,Gattaca (1997),5.0
+technician,Thriller,Incognito (1997),5.0
+technician,War,Paths of Glory (1957),5.0
+technician,War,Duck Soup (1933),4.666666666666667
+technician,War,Schindler's List (1993),4.6
+technician,Western,"Good, The Bad and The Ugly, The (1966)",4.375
+technician,Western,Butch Cassidy and the Sundance Kid (1969),4.0
+technician,Western,"Davy Crockett, King of the Wild Frontier (1955)",4.0
+writer,unknown,unknown,1.0
+writer,Action,Faster Pussycat! Kill! Kill! (1965),5.0
+writer,Action,"Glimmer Man, The (1996)",5.0
+writer,Action,Romper Stomper (1992),5.0
+writer,Adventure,Daylight (1996),4.5
+writer,Adventure,"Adventures of Robin Hood, The (1938)",4.4
+writer,Adventure,Muppet Treasure Island (1996),4.333333333333333
+writer,Animation,Faust (1994),5.0
+writer,Animation,"Close Shave, A (1995)",4.428571428571429
+writer,Animation,"Grand Day Out, A (1992)",4.333333333333333
+writer,Children's,Home Alone 3 (1997),5.0
+writer,Children's,Babe (1995),4.333333333333333
+writer,Children's,Winnie the Pooh and the Blustery Day (1968),4.25
+writer,Comedy,Faster Pussycat! Kill! Kill! (1965),5.0
+writer,Comedy,Grosse Fatigue (1994),5.0
+writer,Comedy,Home Alone 3 (1997),5.0
+writer,Crime,Kansas City (1996),5.0
+writer,Crime,"Godfather, The (1972)",4.454545454545454
+writer,Crime,M (1931),4.25
+writer,Documentary,Anne Frank Remembered (1995),4.5
+writer,Documentary,When We Were Kings (1996),4.5
+writer,Documentary,Crumb (1994),4.25
+writer,Drama,Aiqing wansui (1994),5.0
+writer,Drama,Caught (1996),5.0
+writer,Drama,Faster Pussycat! Kill! Kill! (1965),5.0
+writer,Fantasy,Bogus (1996),4.0
+writer,Fantasy,Jumanji (1995),4.0
+writer,Fantasy,Heavenly Creatures (1994),3.7
+writer,Film-Noir,Dark City (1998),5.0
+writer,Film-Noir,Chinatown (1974),4.6
+writer,Film-Noir,Blade Runner (1982),4.454545454545454
+writer,Horror,Psycho (1960),4.875
+writer,Horror,Braindead (1992),4.5
+writer,Horror,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",4.142857142857143
+writer,Musical,Funny Face (1957),4.5
+writer,Musical,Top Hat (1935),4.5
+writer,Musical,"Gay Divorcee, The (1934)",4.333333333333333
+writer,Mystery,Chinatown (1974),4.6
+writer,Mystery,Chungking Express (1994),4.5
+writer,Mystery,"Man Who Knew Too Little, The (1997)",4.5
+writer,Romance,Love in the Afternoon (1957),5.0
+writer,Romance,Mrs. Dalloway (1997),5.0
+writer,Romance,Psycho (1960),4.875
+writer,Sci-Fi,Dark City (1998),5.0
+writer,Sci-Fi,Alphaville (1965),4.5
+writer,Sci-Fi,Blade Runner (1982),4.454545454545454
+writer,Thriller,Caught (1996),5.0
+writer,Thriller,Dark City (1998),5.0
+writer,Thriller,Foreign Correspondent (1940),5.0
+writer,War,Welcome To Sarajevo (1997),5.0
+writer,War,Henry V (1989),4.444444444444445
+writer,War,"Killing Fields, The (1984)",4.333333333333333
+writer,Western,Dead Man (1995),4.5
+writer,Western,"Good, The Bad and The Ugly, The (1966)",4.0
+writer,Western,High Noon (1952),4.0
