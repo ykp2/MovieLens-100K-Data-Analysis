@@ -7,30 +7,30 @@ import pandas as pd
 from sklearn.metrics.pairwise import pairwise_distances
 
 #Read the information about the data
-info = pd.read_csv('Data ml-100k/u.info', sep=" ", header=None)
+info = pd.read_csv('ml-100k/u.info', sep=" ", header=None)
 info.columns=['Counts', 'Type']
 
 #Get the list of types of genres
-genre = pd.read_csv('Data ml-100k/u.genre', sep="|", encoding='latin-1', header=None)
+genre = pd.read_csv('ml-100k/u.genre', sep="|", encoding='latin-1', header=None)
 genre.drop(genre.columns[1], axis=1, inplace=True)
 genre.columns = ['Genres']
 genre_list = list(genre['Genres'])
 
 #Get the list of types of occupations
-occupation = pd.read_csv('Data ml-100k/u.occupation', sep="|", encoding='latin-1', header=None)
+occupation = pd.read_csv('ml-100k/u.occupation', sep="|", encoding='latin-1', header=None)
 occupation.columns = ['Occupations']
 occupation_list = list(occupation['Occupations'])
 
 #Read the ratings data
-data = pd.read_csv('Data ml-100k/u.data', sep="\t", header=None)
+data = pd.read_csv('ml-100k/u.data', sep="\t", header=None)
 data.columns = ['user id', 'movie id', 'rating', 'timestamp']
 
 #Read the movies data
-item = pd.read_csv('Data ml-100k/u.item', sep="|", encoding='latin-1', header=None)
+item = pd.read_csv('ml-100k/u.item', sep="|", encoding='latin-1', header=None)
 item.columns = ['movie id', 'movie title' ,'release date','video release date', 'IMDb URL', 'unknown', 'Action', 'Adventure', 'Animation', 'Children\'s', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Fantasy', 'Film-Noir', 'Horror', 'Musical', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller', 'War', 'Western']
 
 #Read the user data
-user = pd.read_csv('Data ml-100k/u.user', sep="|", encoding='latin-1', header=None)
+user = pd.read_csv('ml-100k/u.user', sep="|", encoding='latin-1', header=None)
 user.columns = ['user id', 'age', 'gender', 'occupation', 'zip code']
 
 # 1) TOP 3 MOVIES BY OCCUPATION
