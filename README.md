@@ -16,6 +16,6 @@ We will answer the following questions (based on average ratings) by analyzing t
 
 5) What are the Top 3 genres released in Summer (May – July)? **Top3GenresSummer.csv**
 
-6) For each genre, what are the top 2 co-occurring genres? **Top2_CO_gen.txt**
+6) For each genre, what are the top 2 co-occurring genres? **Top2CooccurringGen.txt**
 
 7) For each user, can we find another one with a similar preference? **MostSimUser.txt**
