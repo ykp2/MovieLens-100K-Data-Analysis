@@ -114,7 +114,7 @@ data_user_item_age_sorted = data_user_item_age.groupby(['age group', 'movie titl
 top_3_age = data_user_item_age_sorted.groupby(['age group']).head(3).sort_values(['age group', 'movie title'], ascending=[True, True]).reset_index()
 top_3_age.drop(['index'], axis=1, inplace=True)
 
-top_3_age.to_csv('Ans Top3ByAge.csv', index=False, sep=',')
+top_3_age.to_csv('Top3ByAge.csv', index=False, sep=',')
 
 # 5) TOP 3 GENRES RELEASED IN SUMMER [MAY-JULY]
 
@@ -155,7 +155,6 @@ fo = open(fout, "w")
 for k, v in top2gens.items():
     fo.write(str(k) + ' >>> '+ str(v) + '\n')
 fo.close()
-top2gens
 
 # 7) FOR EACH USER FIND ANOTHER ONE WITH SIMILAR PREFREANCES
 
